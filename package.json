@@ -1,0 +1,11 @@
+{
+  "name": "node-dairy",
+  "version": "1.0.0",
+  "description": "created by nishmal",
+  "main": "back.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nishmal vadakara",
+  "license": "ISC"
+}
